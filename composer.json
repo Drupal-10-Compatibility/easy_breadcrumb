@@ -115,7 +115,7 @@
         },
         "patches": {
             "drupal/easy_breadcrumb": {
-                "#3305267: Automated Drupal 10 compatibility fixes": "https://www.drupal.org/files/issues/2022-09-07/easy_breadcrumb-3305267-9.patch"
+                "#3300609: Drupal 10 compatibility fixes": "https://git.drupalcode.org/project/easy_breadcrumb/-/merge_requests/56.patch"
             }
         }
     },
